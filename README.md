@@ -36,9 +36,9 @@ Health, Heart Disease, Personal health condition
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 
 3. The Dataset
-We found the (dataset)[https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/code] from kaggle, 
-> Where did you find the data? Please include a link to the data source  
-> Who collected the data?  
+
+We found the [dataset](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/code) from kaggle, collected by annual CDC survey in 2020. Originally, the dataset come from the CDC and is a major part of the Behavioral Risk Factor Surveillance System (BRFSS),
+
 > How was the data collected or generated?  
 > Why was the data collected?  
 >How many observations (rows) are in your data?  
@@ -54,4 +54,5 @@ We found the (dataset)[https://www.kaggle.com/datasets/kamilpytlak/personal-key-
 >What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
 
 Acknowledgements
-> Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? Say thank you in this section.
+
+Thanks to CDC and their work to provide data and import our health.
