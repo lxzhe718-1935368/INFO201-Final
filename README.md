@@ -30,15 +30,15 @@ Health, Heart Disease, Personal health condition
 1. Introduction  
 
 > Briefly introduce your project.  Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words)
+> top 3 key factor of heart disease, most common range of age, race of getting heart disease, relationipn between sleep, physical activity and heart desease. What other disease will likely cause heart desease.
 
 2. Related Work  
 
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 
 3. The Dataset
->We found the [dataset](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/code) from kaggle. Originally, the dataset come from the CDC and is a major part of the Behavioral Risk Factor Surveillance System (BRFSS), edit by KAMIL PYTLAK 
-
-> How was the data collected or generated?  
+>We found the [dataset](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/code) from kaggle. Originally, the dataset come from the CDC and is a major part of the Behavioral Risk Factor Surveillance System (BRFSS), edit by KAMIL PYTLAK.
+>Dataset collected by survey, by asking question about people's health statu such as "Do you have serious difficulty walking or climbing stairs?". Data was collected because heart disease is one of the leading causes of death for people of most races in the US, and there are some key factor caused 
 > Why was the data collected?  
 >How many observations (rows) are in your data?  
 > How many features (columns) are in the data?  
