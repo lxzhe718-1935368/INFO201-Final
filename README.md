@@ -23,6 +23,7 @@ No more than three sentences that summarize your project. Focus on the very most
 
 3-5 keywords that summarize your project.
 (e.g., "Keywords: human physiology; bicycle exercise; Gen Z; times-series data")
+Health, Heart Disease, Personal health condition
 
 ## Proposal
 
@@ -35,7 +36,7 @@ No more than three sentences that summarize your project. Focus on the very most
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 
 3. The Dataset
-
+We found the (dataset)[https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/code] from kaggle, 
 > Where did you find the data? Please include a link to the data source  
 > Who collected the data?  
 > How was the data collected or generated?  
