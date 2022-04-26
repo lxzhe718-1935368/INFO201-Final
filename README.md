@@ -51,6 +51,7 @@ Health, Heart Disease, Personal health condition
 
 5. Limitations & Challenges
 >What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
+> dataset only limit to people who live in U.S, not for global analysis. Some factor are subjective such as mental health and physical health, those defination depend on personal definatoin, not accurate
 
 Acknowledgements
 >Thanks to CDC and their work to provide data and import our health.
