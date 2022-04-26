@@ -5,9 +5,7 @@
 
 Please complete your proposal following the outline below.
 
-## Project title
-
-Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
+## Indicators of Heart Disease and Perdiction
 
 ### Authors
 Jack Liu, lxzhe718@uw.edu
@@ -38,10 +36,9 @@ Health, Heart Disease, Personal health condition
 
 3. The Dataset
 >We found the [dataset](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/code) from kaggle. Originally, the dataset come from the CDC and is a major part of the Behavioral Risk Factor Surveillance System (BRFSS), edit by KAMIL PYTLAK.
->Dataset collected by survey, by asking question about people's health statu such as "Do you have serious difficulty walking or climbing stairs?". Data was collected because heart disease is one of the leading causes of death for people of most races in the US, and there are some key factor caused 
-> Why was the data collected?  
->How many observations (rows) are in your data?  
-> How many features (columns) are in the data?  
+>Dataset collected by survey, by asking question about people's health statu such as "Do you have serious difficulty walking or climbing stairs?". Data was collected because heart disease is one of the leading causes of death for people of most races in the US, and there are some key factor related to heart disease. So the dataset can be helpful for us to improve personal health and avoid heart disease. 
+>There are total 18 features and 319796 rows in the dataset  
+  
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
 > What are possible limitations or problems with this data?   (at least 200 words)
 
@@ -51,7 +48,8 @@ Health, Heart Disease, Personal health condition
 
 5. Limitations & Challenges
 >What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
-> dataset only limit to people who live in U.S, not for global analysis. Some factor are subjective such as mental health and physical health, those defination depend on personal definatoin, not accurate
+> because the limitations in dataset that only contains people who live in U.S  so we can't make make full analysis for global area.
+> Also because of some factor are subjective, the result is depend on people's own defination but not general stander. 
 
 Acknowledgements
 >Thanks to CDC and their work to provide data and import our health.
