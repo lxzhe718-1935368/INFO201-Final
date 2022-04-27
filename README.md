@@ -35,8 +35,8 @@ Health, Heart Disease, Personal health condition
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 
 3. The Dataset
->We found the [dataset](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/code) from kaggle. Originally, the dataset come from the CDC and is a major part of the Behavioral Risk Factor Surveillance System (BRFSS), edit by KAMIL PYTLAK.
->Dataset collected by survey, by asking question about people's health statu such as "Do you have serious difficulty walking or climbing stairs?". Data was collected because heart disease is one of the leading causes of death for people of most races in the US, and there are some key factor related to heart disease. So the dataset can be helpful for us to improve personal health and avoid heart disease. 
+>We found the [dataset](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/code) from kaggle. Originally, the dataset comes from the CDC and is a major part of the Behavioral Risk Factor Surveillance System (BRFSS), edited by KAMIL PYTLAK. Dataset collected by survey, by asking questions about people's health statu such as "Do you have serious difficulty walking or climbing stairs?". Data was collected because heart disease is one of the leading causes of death for people of most races in the US, and there are some key factors related to heart disease. So the dataset can be helpful for us to improve personal health and avoid heart disease. There are total 18 features and 319796 rows in the dataset
+
 >There are total 18 features and 319796 rows in the dataset  
   
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
