@@ -8,8 +8,10 @@ Please complete your proposal following the outline below.
 ## Indicators of Heart Disease and Perdiction
 
 ### Authors
-Jack Liu, lxzhe718@uw.edu
-Una Zheng, xzheng2@uw.edu
+Jack Liu, lxzhe718@uw.edu<br>
+Una Zheng, xzheng2@uw.edu<br>
+- - - - <br>
+- - - - - <br>
 
 ### Date
 Winter 2022
