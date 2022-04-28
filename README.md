@@ -11,7 +11,7 @@ Please complete your proposal following the outline below.
 Jack Liu, lxzhe718@uw.edu<br>
 Una Zheng, xzheng2@uw.edu<br>
 - - - - <br>
-- - - - - <br>
+- - - - <br>
 
 ### Date
 Winter 2022
